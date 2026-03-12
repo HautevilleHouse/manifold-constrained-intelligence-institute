@@ -10,6 +10,7 @@ This GitHub surface exists to distinguish the institute identity from the Canoni
 - Umbrella site: [moralcrow.org](https://moralcrow.org)
 - GitHub profile: [HautevilleHouse](https://github.com/HautevilleHouse)
 - Canonical Lane Library: [canonical-lane-library](https://github.com/HautevilleHouse/canonical-lane-library)
+- Patent record: [manifold-constrained-patent-record](https://github.com/HautevilleHouse/manifold-constrained-patent-record)
 
 ## Core Areas
 
@@ -28,6 +29,7 @@ Canonical Lane is a manifold-constrained local-to-global theorem library. It is 
 - [GITHUB_LIBRARY.md](GITHUB_LIBRARY.md): institute-facing summary of the GitHub theorem library and how it connects to the broader research program.
 - [Public Overview](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/PUBLIC_OVERVIEW.md): short overview for first-time readers.
 - [Reviewer Entry Points](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/REVIEWER_ENTRY_POINTS.md): shortest serious audit path into the library.
+- [Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record): GitHub archival record of the patent-facing institute chronology.
 
 ## Role of This Repository
 
@@ -42,4 +44,5 @@ This repository is the institute-level landing page for:
 
 - [Profile README](https://github.com/HautevilleHouse/HautevilleHouse)
 - [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library)
+- [Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record)
 - [Millennium and flagship theorem repos](https://github.com/HautevilleHouse?tab=repositories&q=canonical-lane&type=&language=)
