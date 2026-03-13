@@ -9,6 +9,7 @@ This GitHub surface exists to distinguish the institute identity from the Canoni
 - Institute site: [manifold-constrained.org](https://manifold-constrained.org)
 - Umbrella site: [moralcrow.org](https://moralcrow.org)
 - GitHub profile: [HautevilleHouse](https://github.com/HautevilleHouse)
+- Core method: [manifold-constrained-core](https://github.com/HautevilleHouse/manifold-constrained-core)
 - Canonical Lane Library: [canonical-lane-library](https://github.com/HautevilleHouse/canonical-lane-library)
 - Patent record: [manifold-constrained-patent-record](https://github.com/HautevilleHouse/manifold-constrained-patent-record)
 
@@ -27,6 +28,7 @@ Canonical Lane is a manifold-constrained local-to-global theorem library. It is 
 ## GitHub Entry Surface
 
 - [GITHUB_LIBRARY.md](GITHUB_LIBRARY.md): institute-facing summary of the GitHub theorem library and how it connects to the broader research program.
+- [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core): parent method repo for the general architecture behind the theorem library and related research surfaces.
 - [Public Overview](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/PUBLIC_OVERVIEW.md): short overview for first-time readers.
 - [Reviewer Entry Points](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/REVIEWER_ENTRY_POINTS.md): shortest serious audit path into the library.
 - [Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record): GitHub archival record of the patent-facing institute chronology.
@@ -43,6 +45,7 @@ This repository is the institute-level landing page for:
 ## Direct Links
 
 - [Profile README](https://github.com/HautevilleHouse/HautevilleHouse)
+- [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core)
 - [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library)
 - [Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record)
 - [Millennium and flagship theorem repos](https://github.com/HautevilleHouse?tab=repositories&q=canonical-lane&type=&language=)

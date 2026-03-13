@@ -11,6 +11,7 @@ The public GitHub library is the theorem-facing research surface of the broader 
 ## Main Public Links
 
 - [HautevilleHouse profile](https://github.com/HautevilleHouse)
+- [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core)
 - [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library)
 - [Profile README](https://github.com/HautevilleHouse/HautevilleHouse)
 - [Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record)
